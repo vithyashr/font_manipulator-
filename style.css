@@ -1,0 +1,55 @@
+body {
+
+    background-size: cover;
+}
+
+label{
+    background-color:rgba(187, 71, 71, 0.443);
+    box-shadow: 5px 5px 5px rgba(247, 172, 172, 0.386);
+    color: rgb(232, 222, 204);
+    margin: 0px;
+    font-family:'Courier New', Courier, monospace;
+    height:125px;
+    padding:20px;
+    font-size: 20px;
+
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(247, 172, 172);
+
+}
+
+
+.note {
+
+    font-size: 15px;
+    color: rgb(232, 222, 204);
+    font-weight: bolder;
+}
+
+
+
+.copyright_footer {
+
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(234, 189, 189);
+    line-height: 3;
+    text-align: center;
+}
+
+camera{
+
+margin: 10px;
+}
+
+canvas{
+
+    margin-top:50px;
+}
